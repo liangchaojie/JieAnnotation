@@ -1,0 +1,4 @@
+include ':inject_comiler'
+include ':inject_annotation'
+include ':app'
+rootProject.name = "Annotation"
